@@ -1,0 +1,34 @@
+{
+
+  "users":
+  [
+
+    {
+      "DisplayName" : "fouzaan ahmed",
+      "EmailAddress" : "ferza.12.gmail.com",
+      "Username" : "froz",
+      "Password" : "00000"
+    },
+
+    {
+      "DisplayName" : "blinken russl",
+      "EmailAddress" : "rull@gmail.com",
+      "Username" : "russlei",
+      "Password" : "11111"
+    },
+    {
+      "DisplayName" : "Joan Samuel",
+      "EmailAddress" : "jsam@gmail.com",
+      "Username" : "jsam",
+      "Password" : "22222"
+    },
+
+    {
+      "DisplayName" : "Admin",
+      "EmailAddress" : "admin@example.com",
+      "Username" : "admin",
+      "Password" : "00000"
+    }
+  ]
+
+}
